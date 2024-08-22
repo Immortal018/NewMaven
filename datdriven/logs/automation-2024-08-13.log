@@ -1,0 +1,49 @@
+15:56:05.506 [main] INFO  com.vig.practice.testcases.TC001_Registration - *********Clicking continue**********
+15:56:12.562 [main] INFO  com.vig.practice.testcases.TC001_Registration - *********finished register**********
+19:17:12.164 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+19:17:12.223 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+19:17:17.992 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+19:39:43.276 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+19:39:43.279 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+19:39:49.144 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+19:42:39.485 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+19:42:39.492 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+19:42:46.652 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+19:42:48.044 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+19:42:49.110 [main] INFO  com.vig.practice.testcases.TC002_Login - ****logged out*****
+21:29:48.525 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:30:16.710 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:30:39.053 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:30:44.864 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Finished test*******
+21:40:12.094 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+21:40:12.098 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+21:40:19.531 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+21:40:21.219 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+21:40:22.708 [main] INFO  com.vig.practice.testcases.TC002_Login - ****logged out*****
+21:40:47.551 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:41:10.322 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:41:35.513 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:41:40.067 [main] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Finished test*******
+21:44:07.276 [TestNG-test=Test-1] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+21:44:07.290 [TestNG-test=Test-1] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+21:44:08.645 [TestNG-test=Test-2] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:44:13.292 [TestNG-test=Test-1] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+21:44:15.057 [TestNG-test=Test-1] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+21:44:16.001 [TestNG-test=Test-1] INFO  com.vig.practice.testcases.TC002_Login - ****logged out*****
+21:44:30.570 [TestNG-test=Test-2] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:44:53.283 [TestNG-test=Test-2] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Starting test*******
+21:44:59.090 [TestNG-test=Test-2] INFO  com.vig.practice.testcases.TC003_LoginDataDrivenTest - ******Finished test*******
+21:51:11.620 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+21:51:11.620 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+21:51:17.803 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+21:51:20.004 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+21:51:20.857 [main] INFO  com.vig.practice.testcases.TC002_Login - ****logged out*****
+23:37:29.932 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+23:37:29.994 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+23:37:36.822 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+23:37:38.381 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+23:37:39.397 [main] INFO  com.vig.practice.testcases.TC002_Login - ****logged out*****
+23:41:59.481 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+23:41:59.489 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+23:42:05.790 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+23:42:07.396 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****

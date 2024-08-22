@@ -1,0 +1,30 @@
+23:47:58.712 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+23:47:58.720 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+23:48:04.316 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+23:48:43.922 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+23:53:34.400 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+23:53:34.408 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+23:53:40.417 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+23:53:41.953 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+23:56:48.164 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+23:56:48.172 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+23:56:53.857 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+23:56:55.211 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+00:02:32.637 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+00:02:32.640 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+00:02:43.307 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+00:02:46.357 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+00:10:33.838 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+00:10:33.842 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+00:10:40.302 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+00:10:41.248 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+00:16:28.383 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+00:16:28.397 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+00:19:02.240 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+00:19:02.250 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+00:19:05.524 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+00:19:06.508 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
+00:26:54.738 [main] INFO  com.vig.practice.testcases.TC002_Login - *********Starting test**********
+00:26:54.745 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login page*****
+00:26:55.412 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering login details*****
+00:26:56.346 [main] INFO  com.vig.practice.testcases.TC002_Login - ****entering accountpage*****
